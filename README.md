@@ -1,5 +1,4 @@
 # About Me
-Just another repository
 
 My name is Paul Allender and I would like to apply for your position of Entry Level Software / Web Developer.
 
